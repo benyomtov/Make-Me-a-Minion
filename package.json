@@ -1,0 +1,22 @@
+{
+  "name": "make-me-a-minion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyomtov/Make-Me-a-Minion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyomtov/Make-Me-a-Minion/issues"
+  },
+  "homepage": "https://github.com/benyomtov/Make-Me-a-Minion#readme",
+  "dependencies": {
+  }
+}
